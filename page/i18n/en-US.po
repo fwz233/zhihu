@@ -1,0 +1,5 @@
+msgid "todoList"
+msgstr "APPSO早报"
+
+msgid "noData"
+msgstr "显示APPSO早报"

@@ -1,0 +1,5 @@
+msgid "addTodo"
+msgstr "一觉醒来"
+
+msgid "delete"
+msgstr "一觉醒来"
